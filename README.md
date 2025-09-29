@@ -166,20 +166,5 @@ Actual  Dry   TN     FP
 - Deep learning approaches (CNN for spatial features)
 - Cost-sensitive learning to handle class imbalance
 
-## Contributors
-- Ramey (Programming solutions and extra credit)
-- Lay (Review and verification)
 
-## License
-Educational project for machine learning coursework.
-
-## Acknowledgments
-- Dataset: Wetland mapping project using multispectral imagery
-- Scikit-learn library for baseline implementations
-- Course materials and guidance from instructor
-
-## Contact
-For questions or issues, please contact through the course management system.
-
----
 **Last Updated**: September 2025
