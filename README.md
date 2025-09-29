@@ -8,7 +8,7 @@ This project implements and compares various machine learning classification met
 Lab1_Wetland_Classification/
 │
 ├── Lab1_Wetland_Classification_ML_Analysis.ipynb    # Main notebook (includes custom LR)
-├── myLR.py                                          # Standalone file for the custom logistic regression.  
+├── myLR.py                                          # Basic custom logistic regression.(Without regularization)  
 ├── train.csv                                        # Training dataset (1000 samples)
 ├── smalltrain.csv                                   # Smaller training set (for overfitting demo)
 ├── test.csv                                         # Test dataset (1000 samples)
