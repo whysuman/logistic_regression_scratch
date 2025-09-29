@@ -50,7 +50,7 @@ Evaluated three classification algorithms:
 - **Random Forest**: 81.0% accuracy
 - Demonstrated superiority of ensemble methods
 
-### Part 5: Custom Implementation (Extra Credit)
+### Part 5: Custom Implementation
 Implemented logistic regression from scratch with advanced features:
 - Polynomial feature engineering
 - L2 regularization
